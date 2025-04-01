@@ -1,6 +1,6 @@
 "use strict";
 
-export { answer, sumSubArray };
+export { answer };
 
 function answer() {
   return 10 / 5;

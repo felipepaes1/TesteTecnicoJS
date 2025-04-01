@@ -1,6 +1,6 @@
 "use strict";
 
-import { answer, sumSubArray } from "./functions.js";
+import { answer } from "./functions.js";
 import assert from "assert";
 
 try {
